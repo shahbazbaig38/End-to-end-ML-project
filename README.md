@@ -55,7 +55,7 @@ The project uses the [Telco Customer Churn dataset](https://www.kaggle.com/datas
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/shahbazbaig38/End-to-end-ML-project.git
 cd end-to-end-ml-project
 ```
 
